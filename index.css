@@ -34,6 +34,7 @@ header {
     margin: 20px 0;
     padding: 20px;
     border: 1px solid #ddd;
+     box-shadow: 0 4px 8px rgba(0,0,0,0.5);
 }
 
 .block img {
@@ -57,10 +58,15 @@ header {
 
 }
 
+.button1 {
+    background-color: #DCF2F1;
+    color: #000;
+    border: 3px solid #720455;
+}
 .button2 {
     background-color: #ffe4e1;
     color: #000;
-    border: 3px solid #EADFB4;
+    border: 3px solid red;
 }
 
 .button3 {
@@ -80,3 +86,4 @@ header {
     color: #f0f8ff;
      text-align: center;
 }
+
